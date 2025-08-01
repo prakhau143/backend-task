@@ -1,0 +1,12 @@
+Starting mock low-stock alerts API...
+Available endpoints:
+  GET /api/companies/{company_id}/alerts/low-stock
+  GET /health
+ * Serving Flask app 'test_app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 150-050-928
